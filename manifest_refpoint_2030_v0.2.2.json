@@ -1,0 +1,36 @@
+{
+  "package_name": "refpoint_upload_2030_ready",
+  "version": "0.2.2",
+  "author": "TheRealVastien",
+  "timestamp_utc": "2025-08-11T17:37:46Z",
+  "files": [
+    {
+      "filename": "AGI_REFPOINT_v0.2.2.txt",
+      "sha256": "d1afb26ec552af904e93b2c548f32684a314a27f6c04211258374941d72b1a27",
+      "bytes": 1702
+    },
+    {
+      "filename": "README_REFPOINT_2030.md",
+      "sha256": "1c2bf68003f1d050fa40513ee4cc793c1a3c5c2da4f7663fd94c765119c8ab37",
+      "bytes": 1474
+    },
+    {
+      "filename": "REFPOINT_SPEC_2030.md",
+      "sha256": "3ef22ca86aa1cd10be5e2891b5e5dced2635b5df0aef7c93c14faccc48e00e0c",
+      "bytes": 2095
+    }
+  ],
+  "policy_tags": [
+    "AGI_SAFETY_V1.3",
+    "UNESCO_AI_ETHICS_2021",
+    "OECD_AI_PRINCIPLES",
+    "ISO_AI_GOV_2028"
+  ],
+  "profiles": [
+    "STRICT-SAFE",
+    "FLEX-SAFE",
+    "RESEARCH-MODE"
+  ],
+  "codex_included": false,
+  "notes": "Reference-Point discovery package; Codex delivered post-initialization via secure channel."
+}
